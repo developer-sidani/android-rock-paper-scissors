@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors Challenge</string>
+    <string name="select">Select an item:</string>
+    <string-array name="rps">
+        <item>Rock</item>
+        <item>Paper</item>
+        <item>Scissors</item>
+    </string-array>
+</resources>
